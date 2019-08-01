@@ -1,16 +1,13 @@
 <div align="center">
+
 ![forthebadge](http://forthebadge.com/images/badges/built-with-love.svg)
 ![forthebadge](http://forthebadge.com/images/badges/uses-js.svg)
 ![forthebadge](http://forthebadge.com/images/badges/makes-people-smile.svg)
-</div>
 
-<div align="center">
 ![forthebadge](https://forthebadge.com/images/badges/built-by-crips.svg) ![forthebadge](https://forthebadge.com/images/badges/contains-cat-gifs.svg) ![forthebadge](https://forthebadge.com/images/badges/validated-html5.svg)
 
 ![forthebadge](https://forthebadge.com/images/badges/made-with-javascript.svg)
-</div>
 
-<div align="center">
 ![js-standard-style](https://cdn.rawgit.com/feross/standard/master/badge.svg)
 </div>
 
