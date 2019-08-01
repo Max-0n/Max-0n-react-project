@@ -1,3 +1,12 @@
+<div align="center">
+![forthebadge](http://forthebadge.com/images/badges/built-with-love.svg) ![forthebadge](http://forthebadge.com/images/badges/uses-js.svg) ![forthebadge](http://forthebadge.com/images/badges/makes-people-smile.svg)
+
+![forthebadge](https://forthebadge.com/images/badges/built-by-crips.svg) ![forthebadge](https://forthebadge.com/images/badges/contains-cat-gifs.svg) ![forthebadge](https://forthebadge.com/images/badges/validated-html5.svg)
+
+![forthebadge](https://forthebadge.com/images/badges/made-with-javascript.svg)
+![js-standard-style](https://cdn.rawgit.com/feross/standard/master/badge.svg)
+</div>
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
