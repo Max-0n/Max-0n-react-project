@@ -1,5 +1,7 @@
 <div align="center">
-![forthebadge](http://forthebadge.com/images/badges/built-with-love.svg) ![forthebadge](http://forthebadge.com/images/badges/uses-js.svg) ![forthebadge](http://forthebadge.com/images/badges/makes-people-smile.svg)
+![forthebadge](http://forthebadge.com/images/badges/built-with-love.svg)
+![forthebadge](http://forthebadge.com/images/badges/uses-js.svg)
+![forthebadge](http://forthebadge.com/images/badges/makes-people-smile.svg)
 
 ![forthebadge](https://forthebadge.com/images/badges/built-by-crips.svg) ![forthebadge](https://forthebadge.com/images/badges/contains-cat-gifs.svg) ![forthebadge](https://forthebadge.com/images/badges/validated-html5.svg)
 
